@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/your-repository-name/static/css/main.4f40c674.css",
+    "main.js": "/your-repository-name/static/js/main.7d8b2a47.js",
+    "static/media/background.png": "/your-repository-name/static/media/background.386fceb3f6bde5ce08a5.png",
+    "static/media/lines.png": "/your-repository-name/static/media/lines.ccd2b52897336f47028a.png",
+    "static/media/image-book.jpg": "/your-repository-name/static/media/image-book.3cee2afa836ae34f869a.jpg",
+    "static/media/photo.jpg": "/your-repository-name/static/media/photo.1ab6d1b6c60aea8b12ef.jpg",
+    "static/media/logo.png": "/your-repository-name/static/media/logo.1451d70db2ad7ecdc227.png",
+    "static/media/linkedin.svg": "/your-repository-name/static/media/linkedin.56026bbcac9852361b7803d6cf5934a8.svg",
+    "static/media/instagram.svg": "/your-repository-name/static/media/instagram.9b9f2a32a922b7990c3614328d5f2180.svg",
+    "index.html": "/your-repository-name/index.html",
+    "main.4f40c674.css.map": "/your-repository-name/static/css/main.4f40c674.css.map",
+    "main.7d8b2a47.js.map": "/your-repository-name/static/js/main.7d8b2a47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f40c674.css",
+    "static/js/main.7d8b2a47.js"
+  ]
+}
